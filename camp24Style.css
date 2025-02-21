@@ -1,0 +1,25 @@
+body {
+    background-color: #F5DEB3; /* Màu nền nâu nhạt */
+    color: #5D4037; /* Màu chữ nâu đậm */
+}
+.navbar {
+    background-color: #D2B48C !important; /* Màu nâu nhạt */
+}
+.navbar-brand img {
+    height: 150px; /* Điều chỉnh chiều cao */
+    width: auto;  /* Giữ tỉ lệ ảnh */
+}
+.navbar-brand, .nav-link {
+    color: #5D4037 !important; /* Màu chữ nâu đậm */
+}
+.btn-outline-success {
+    border-color: #8B5A2B;
+    color: #8B5A2B;
+}
+.btn-outline-success:hover {
+    background-color: #8B5A2B;
+    color: white;
+}
+.form-control {
+    border: 1px solid #8B5A2B;
+}
